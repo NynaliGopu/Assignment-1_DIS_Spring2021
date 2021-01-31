@@ -60,15 +60,15 @@ namespace Assignment1_Spring2021
             Console.WriteLine("Destination city is " + destination);
         }
           //methods for question 1
-          ///Print a pattern with n rows given n as input
-          ///n – number of rows for the pattern, integer (int)
-	      ///This method prints a triangle pattern.
-          ///For example n = 5 will display the output as: 
-	      ///     *
-          ///    ***
-	      ///   *****
-          ///   *******
-	      ///  *********
+          //Print a pattern with n rows given n as input
+          //n – number of rows for the pattern, integer (int)
+	      //This method prints a triangle pattern.
+          //For example n = 5 will display the output as: 
+	      //     *
+          //    ***
+	      //   *****
+          //   *******
+	      //  *********
 
 
         private static void printTriangle(int n)
